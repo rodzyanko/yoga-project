@@ -120,7 +120,7 @@ window.addEventListener('DOMContentLoaded', () => {
             let message = {
                 loading: "Загрузка...",
                 success: "Спасибо, скоро мы с вами свяжемся",
-                failure: "Что-то пошло не так o_O"
+                failure: "Что-то пошло не так"
             };
 
             let form = document.querySelector('.main-form'),
